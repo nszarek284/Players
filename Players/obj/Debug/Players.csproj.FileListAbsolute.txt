@@ -1,0 +1,15 @@
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.csprojAssemblyReference.cache
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\App.g.cs
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players_MarkupCompile.cache
+C:\Users\nszar\source\repos\Players\Players\bin\Debug\Players.exe.config
+C:\Users\nszar\source\repos\Players\Players\bin\Debug\Players.exe
+C:\Users\nszar\source\repos\Players\Players\bin\Debug\Players.pdb
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\MainWindow.g.cs
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players_MarkupCompile.lref
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\MainWindow.baml
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.g.resources
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.Properties.Resources.resources
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.csproj.GenerateResource.cache
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.csproj.CoreCompileInputs.cache
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.exe
+C:\Users\nszar\source\repos\Players\Players\obj\Debug\Players.pdb
